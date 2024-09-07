@@ -3,103 +3,6 @@
     <display-name>MeTV</display-name>
     <icon src="https://new.mjh.nz/.images/metv.png"/>
   </channel>
-  <programme channel="metv" start="20240907050500 +0000" stop="20240907060500 +0000">
-    <title>The Alfred Hitchcock Hour</title>
-    <sub-title>Terror At Northfield  (s2, ep)</sub-title>
-    <desc>A pious extremist embarks on a killing spree to retaliate for the death of his son.</desc>
-  </programme>
-  <programme channel="metv" start="20240907060500 +0000" stop="20240907070500 +0000">
-    <title>Mannix</title>
-    <sub-title>Portrait In Blues</sub-title>
-    <episode-num system="onscreen">S03E04</episode-num>
-    <desc>Mannix looks into why someone may be trying to kill one half of a successful singing duo.</desc>
-  </programme>
-  <programme channel="metv" start="20240907070500 +0000" stop="20240907080500 +0000">
-    <title>Cannon</title>
-    <sub-title>Death Of A Hunter</sub-title>
-    <episode-num system="onscreen">S03E21</episode-num>
-    <desc>General O'Hara, now a mercenary, hires Cannon to find his brother's killer. But the mercenary knows more than he's admitting, and Cannon finds himself in someone's cross hairs.</desc>
-  </programme>
-  <programme channel="metv" start="20240907080500 +0000" stop="20240907090000 +0000">
-    <title>Barnaby Jones</title>
-    <sub-title>Fatal Witness</sub-title>
-    <episode-num system="onscreen">S04E09</episode-num>
-    <desc>Barnaby must vindicate a doctor accused of murder by a girl subject to hallucinations.</desc>
-  </programme>
-  <programme channel="metv" start="20240907090000 +0000" stop="20240907093000 +0000">
-    <title>Petticoat Junction</title>
-    <sub-title>A Cake From Granny</sub-title>
-    <episode-num system="onscreen">S06E12</episode-num>
-    <desc>When Bedloe returns to Hooterville with a brand-new scheme to bring about the end of the Cannonball, Granny's edible gift might be the only thing to save the valley from losing its beloved train.</desc>
-  </programme>
-  <programme channel="metv" start="20240907093000 +0000" stop="20240907100000 +0000">
-    <title>Petticoat Junction</title>
-    <sub-title>The Feminine Mistake</sub-title>
-    <episode-num system="onscreen">S06E13</episode-num>
-    <desc>After several failed job attempts, Bobbie Jo writes a newspaper article about Dr. Craig, which upsets half the subscribers in Hooterville.</desc>
-  </programme>
-  <programme channel="metv" start="20240907100000 +0000" stop="20240907103000 +0000">
-    <title>The Beverly Hillbillies</title>
-    <sub-title>Clampett's Millions</sub-title>
-    <episode-num system="onscreen">S07E22</episode-num>
-    <desc>Jethro is still working on being a 007 spy, though it is annoying Granny. And Elly has been crowned Queen of the Bankers Ball. Mr. Cushing is not happy about this though, as he wanted his contestant to win. Because Jethro is having more fun at Cushing’s bank, he tries to get Jed to transfer his money to the Merchant’s Bank. And Cushing sees this opportunity and tries to get that gorgeous Clampett account.</desc>
-  </programme>
-  <programme channel="metv" start="20240907103000 +0000" stop="20240907110000 +0000">
-    <title>The Beverly Hillbillies</title>
-    <sub-title>The Great Cook-off</sub-title>
-    <episode-num system="onscreen">S07E08</episode-num>
-    <desc>Even though the Clampetts are enjoying Maria’s cooking, Granny is upset that there is another cook in her kitchen. She wants Maria to leave, and Jed knows Maria leaving is the best thing to make everything right. However, Jethro is in love with Maria, hoping to marry her. Jane figures out a way to get Maria in good with Granny. She arranges a meeting between the two cooks, and Jane tells Maria to answer "Yes" to everything.</desc>
-  </programme>
-  <programme channel="metv" start="20240907110000 +0000" stop="20240907113000 +0000">
-    <title>Popeye and Pals</title>
-    <sub-title>Pleased To Meet Cha!, Olive Oyl And Water Don’t Mix, I’ll Never Crow Again</sub-title>
-    <desc>"Popeye and Bluto, rivals for Olive Oyl's affection, call on her bearing gifts., No sooner do Popeye and his sea-going sidekick, Bluto, agree that "wimmin is bad luck," that Olive gallops up the gangplank of the battleship the boys are on., When Olive notices a number of pesky crows ruining her vegetable garden, she calls for Popeye's assistance."</desc>
-  </programme>
-  <programme channel="metv" start="20240907113000 +0000" stop="20240907120000 +0000">
-    <title>The Tom and Jerry Show</title>
-    <sub-title>Designs On Jerry, The Field Mouse, Flying Cat</sub-title>
-    <desc>"A blueprint mouse comes to life to help Jerry out of the ultimate trap Tom has designed., A lazy field mouse proves his worth to his grandfather by rescuing him from a thresher., Jerry and a canary save one another from Tom, and take refuge in the Canary's birdhouse."</desc>
-  </programme>
-  <programme channel="metv" start="20240907120000 +0000" stop="20240907130000 +0000">
-    <title>The Woody Woodpecker Show</title>
-    <sub-title>Room And Bored, Chilly Chums, Papoose On The Loose, What's Peckin?, Jerky Turkey, Three Lazy Mice, Poop Deck Pirate</sub-title>
-    <desc>"Smedley works for the telephone company and tries to evict Woody from a telephone pole., Chilly and Maxie the Polar Bear team up to avoid a hunter., An indigineous child wants to hunt a bear, so his father dresses up as a bear to teach him a lesson. It turns out, the child is a better hunter than he thought., The professor contrives an invention to stop Woody pecking at telephone poles., Junior brings home a turkey as a pet, but Charlie is determined to cook it for Sunday dinner., Three lazy mice try to get out of working by claiming to be blind., Woody's rest and relaxation on Tooti Fruiti island is interrupted by a noisy pirate burying his treasure."</desc>
-  </programme>
-  <programme channel="metv" start="20240907130000 +0000" stop="20240907140000 +0000">
-    <title>Bugs Bunny and Friends</title>
-    <sub-title>Bunny Hugged, Wild Over You, Raw! Raw! Rooster, Yankee Doodle Bugs, The Rebel Without Claws, The Eager Beaver, Bill Of Hare</sub-title>
-    <desc>"A Bugs cartoon parody of pro-wrestling.
-, A female wildcat paints a white stripe on herself to scare a zookeeper and escape from the zoo at the Paris Exposition. Pepe LePew pursues his love, but any time he showers her with hugs and kisses the claws come out and she attacks., An old college friend Rhode Island Red decides to pay Foggy a visit.
-, Bugs gives his nephew pointers on early American history, writing himself into about half of the events.
-, All the Confederate Army's carrier pigeons have been shot down, leaving the task of delivering an important message to Tweety.
-, Eager Beaver is a goofy, ski-capped chap who is so eager for wood he chops down phone poles. Now he chew down a giant tree on top the local mountain in order to finish the dam.
-, Bugs is interrupted from his dinner cooking when Taz breaks loose on the pier and tries to eat the rabbit. Bugs outwits Taz and convinces Taz that he should eat moose, the two then go off hunting...
-"</desc>
-  </programme>
-  <programme channel="metv" start="20240907140000 +0000" stop="20240907150000 +0000">
-    <title>The Wild Wild West</title>
-    <sub-title>The Night Of The Poisonous Posey</sub-title>
-    <episode-num system="onscreen">S02E07</episode-num>
-    <desc>While on vacation, the agents receive an odd welcome when they pass through the town of Justice, Nevada. The town turns out to be the hangout for a group of international criminals assembled by Lucrece Posey, who is planning on heading a world-wide criminal organization.</desc>
-  </programme>
-  <programme channel="metv" start="20240907150000 +0000" stop="20240907160000 +0000">
-    <title>Wagon Train</title>
-    <sub-title>The Jenny Tannen Story</sub-title>
-    <episode-num system="onscreen">S02E38</episode-num>
-    <desc>A young girl is injured while on the way to San Francisco to find her famous mother, who abandoned her as a baby. The crew helps the girl with her encroaching blindness and finds her mother, who has her own problems.</desc>
-  </programme>
-  <programme channel="metv" start="20240907160000 +0000" stop="20240907170000 +0000">
-    <title>The Big Valley</title>
-    <sub-title>Flight From San Miguel</sub-title>
-    <episode-num system="onscreen">S04E25</episode-num>
-    <desc>An old girlfriend of Heath’s asks his help in rescuing her husband, a Mexican revolutionary leader. The family agrees that he should, though if he is caught, the Barkley mines will be confiscated—and Heath may lose his life.</desc>
-  </programme>
-  <programme channel="metv" start="20240907170000 +0000" stop="20240907180000 +0000">
-    <title>Gunsmoke</title>
-    <sub-title>The Mark Of Cain</sub-title>
-    <episode-num system="onscreen">S14E19</episode-num>
-    <desc>A scholarly man in Dodge is actually a former commandant of a Civil War prison camp.</desc>
-  </programme>
   <programme channel="metv" start="20240907180000 +0000" stop="20240907190000 +0000">
     <title>Bonanza</title>
     <sub-title>The Burma Rarity</sub-title>
@@ -1258,5 +1161,210 @@
     <sub-title>Trojan Horse</sub-title>
     <episode-num system="onscreen">S02E23</episode-num>
     <desc>Dan Mathews works hard to outsmart three desperate criminals who  resort to using a clever ruse.</desc>
+  </programme>
+  <programme channel="metv" start="20240913093000 +0000" stop="20240913100000 +0000">
+    <title>Dragnet</title>
+    <sub-title>The Subscription Racket</sub-title>
+    <episode-num system="onscreen">S01E14</episode-num>
+    <desc>Friday learns about a scam artist with a novel twist: he uses an authentic Congressional Medal of Honor to solicit magazine subscriptions.</desc>
+  </programme>
+  <programme channel="metv" start="20240913100000 +0000" stop="20240913103000 +0000">
+    <title>Dragnet</title>
+    <sub-title>The Big Gun</sub-title>
+    <episode-num system="onscreen">S01E15</episode-num>
+    <desc>A Japanese widow is senselessly murdered, leaving her small daughter an orphan. Friday has a hard time controlling his emotions while seeking the killer.</desc>
+  </programme>
+  <programme channel="metv" start="20240913103000 +0000" stop="20240913110000 +0000">
+    <title>Adam-12</title>
+    <sub-title>Log 123 -- Courtroom</sub-title>
+    <episode-num system="onscreen">S02E09</episode-num>
+    <desc>Reed feels a strong sense of accomplishment when he stumbles upon a large stash of narcotics as he secures a residence after executing a traffic warrant with Malloy and Officer Ed Wells. He's in for a rude awakening at the trial, however, when he's cross examined by the defense attorney.</desc>
+  </programme>
+  <programme channel="metv" start="20240913110000 +0000" stop="20240913120000 +0000">
+    <title>Toon In With Me</title>
+    <sub-title>Friday The 13th!</sub-title>
+    <desc>"On this spooky day, Bill and Toony talk horror, zombies, and more, with the help of a special guest."</desc>
+  </programme>
+  <programme channel="metv" start="20240913120000 +0000" stop="20240913123000 +0000">
+    <title>Leave It to Beaver</title>
+    <sub-title>Family Scrapbook</sub-title>
+    <episode-num system="onscreen">S06E39</episode-num>
+    <desc>While cleaning, June runs across an old family scrapbook and gathers the family together to reminisce about the past six years. The Cleavers recall scenes from previous episodes including: 'Beaver Gets 'Spelled,'' 'New Neighbors,' 'My Brother's Girl,' 'The Shave,' 'Beaver Runs Away,' 'Larry Hides Out,' 'Teacher Comes to Dinner,' and 'Wally's Election.'</desc>
+  </programme>
+  <programme channel="metv" start="20240913123000 +0000" stop="20240913130000 +0000">
+    <title>Leave It to Beaver</title>
+    <sub-title>Beaver Gets "spelled"</sub-title>
+    <desc>"Beaver's teacher, Miss Canfield, sends a note home with Beaver and the other kids convince him that it's news that he's getting kicked out of school. So Beaver and Wally take steps to hide the note from Ward and June."</desc>
+  </programme>
+  <programme channel="metv" start="20240913130000 +0000" stop="20240913140000 +0000">
+    <title>Perry Mason</title>
+    <sub-title>The Case Of The Curious Bride</sub-title>
+    <episode-num system="onscreen">S02E05</episode-num>
+    <desc>Rhoda Reynolds is charged with murdering her blackmailing ex-husband, Arthur Kane. At the trial, Mason moves the proceedings to the room in which Kane was murdered in order to re-enact the fatal night.</desc>
+  </programme>
+  <programme channel="metv" start="20240913140000 +0000" stop="20240913150000 +0000">
+    <title>Matlock</title>
+    <sub-title>Annihilator  (s2, ep)</sub-title>
+    <desc>At Cassie's request, Matlock reluctantly agrees to represent a famous wrestler accused of killing a long-time rival. The key witness is a young girl whose story might not be completely accurate.</desc>
+  </programme>
+  <programme channel="metv" start="20240913150000 +0000" stop="20240913160000 +0000">
+    <title>In the Heat of the Night</title>
+    <sub-title>Hello In There</sub-title>
+    <episode-num system="onscreen">S03E13</episode-num>
+    <desc>Bubba refuses to believe that a former teammate embezzled funds from the bank where he worked. And sets out to prove that his friend was framed and murdered. Harriet hopes that art therapy can help the man's traumatized son, who becomes a target himself when the killer realizes he witnessed the crime.</desc>
+  </programme>
+  <programme channel="metv" start="20240913160000 +0000" stop="20240913170000 +0000">
+    <title>The Waltons</title>
+    <sub-title>The Elopement</sub-title>
+    <episode-num system="onscreen">S05E16</episode-num>
+    <desc>The forestry student who previously visited Waltons Mountain (in "The Competition"") now returns</desc>
+  </programme>
+  <programme channel="metv" start="20240913170000 +0000" stop="20240913180000 +0000">
+    <title>Gunsmoke</title>
+    <sub-title>The Good Samaritans</sub-title>
+    <episode-num system="onscreen">S14E24</episode-num>
+    <desc>Matt is taking a signed confession paper to a judge that will hang a man. The man has put a reward on the paper causing two bounty hunters to shoot Matt in an effort to get it. Matt is taken in by a group of freed slaves heading west who are being pursued by hunters.</desc>
+  </programme>
+  <programme channel="metv" start="20240913180000 +0000" stop="20240913190000 +0000">
+    <title>Bonanza</title>
+    <sub-title>The Horse Breaker</sub-title>
+    <episode-num system="onscreen">S03E10</episode-num>
+    <desc>While working at the Ponderosa, wrangler Johnny Lightly suffers an accident that costs him the use of both legs. Though Dr. Kay theorizes that the injuries may not last, Johnny has given up the will to live.</desc>
+  </programme>
+  <programme channel="metv" start="20240913190000 +0000" stop="20240913193000 +0000">
+    <title>The Rifleman</title>
+    <sub-title>Stranger At Night</sub-title>
+    <episode-num system="onscreen">S01E36</episode-num>
+    <desc>Mark's finding the body of a murder victim starts Lucas, his friend, Artemus, and Marshal Torrance on a search for the killer.</desc>
+  </programme>
+  <programme channel="metv" start="20240913193000 +0000" stop="20240913200000 +0000">
+    <title>The Rifleman</title>
+    <sub-title>The Raid</sub-title>
+    <episode-num system="onscreen">S01E37</episode-num>
+    <desc>When renegade Apaches wound Lucas and kidnap Mark, Marshal Torrance joins with U.S. Marshal Sam Buckhart to form a rescue posse.</desc>
+  </programme>
+  <programme channel="metv" start="20240913200000 +0000" stop="20240913210000 +0000">
+    <title>Wagon Train</title>
+    <sub-title>The Elizabeth Mcqueeny Story</sub-title>
+    <episode-num system="onscreen">S03E05</episode-num>
+    <desc>Elizabeth McQueeny is traveling with her girls, heading to a finishing school in the west. When her real purpose becomes known, all the females want her gone but her worth shows itself before that can happen.</desc>
+  </programme>
+  <programme channel="metv" start="20240913210000 +0000" stop="20240913213000 +0000">
+    <title>Adam-12</title>
+    <sub-title>Clear With A Civilian: Part 1</sub-title>
+    <episode-num system="onscreen">S05E14</episode-num>
+    <desc>Reed starts a flu epidemic that decimates the city's police force, forcing him and Malloy to work a double shift. During day watch, he and Malloy encounter a bookmaker being held at gunpoint, mediate a dispute over a cantaloupe, investigate a possible robbery in progress, engage in a foot chase with an athletic young man and pull over a motorist who turns out to be a VIP.</desc>
+  </programme>
+  <programme channel="metv" start="20240913213000 +0000" stop="20240913220000 +0000">
+    <title>Adam-12</title>
+    <sub-title>Clear With A Civilian: Part 2</sub-title>
+    <episode-num system="onscreen">S05E15</episode-num>
+    <desc>Newly appointed Police Commissioner Edna Dixon accompanies Malloy and Reed on night watch, where they deal with a naked elderly wino at a bar, try to diffuse a possible riot situation following a gang-related stabbing and pursue a deaf teenager in a stolen car.</desc>
+  </programme>
+  <programme channel="metv" start="20240913220000 +0000" stop="20240913223000 +0000">
+    <title>M*A*S*H</title>
+    <sub-title>The Army-navy Game</sub-title>
+    <episode-num system="onscreen">S01E20</episode-num>
+    <desc>The camp tunes into the Army/Navy football game, only to be shelled and have an unexploded bomb land in the middle of the compound. They ring around trying to identify the bomb, and the camp prepares for the worst. Hawkeye and Trapper are left the task of following instructions to disarm the bomb.</desc>
+  </programme>
+  <programme channel="metv" start="20240913223000 +0000" stop="20240913230000 +0000">
+    <title>M*A*S*H</title>
+    <sub-title>Sticky Wicket</sub-title>
+    <episode-num system="onscreen">S01E21</episode-num>
+    <desc>Hawkeye and Frank argue over Frank's surgical ability. Hawkeye performs a difficult operation and the patient does not recover as he should. Hawkeye begins to doubt his ability and moves out of The Swamp. He decides to open up his patients again, and discovers a nick in the colon that even Frank admits anyone could have missed.</desc>
+  </programme>
+  <programme channel="metv" start="20240913230000 +0000" stop="20240913233000 +0000">
+    <title>M*A*S*H</title>
+    <sub-title>Major Fred C. Dobbs</sub-title>
+    <episode-num system="onscreen">S01E22</episode-num>
+    <desc>Frank's normal drone of verbal abuse upsets Ginger, so Hawkeye puts his arm in a cast while he is asleep. Frank puts in for a transfer, and after Franks tells Margaret he's leaving, she decides to leave as well. As a result, Col. Blake puts both Hawk and Trap on double post-op duty until he finds replacements for Majs. Burns and Houlihan.</desc>
+  </programme>
+  <programme channel="metv" start="20240913233000 +0000" stop="20240914000000 +0000">
+    <title>M*A*S*H</title>
+    <sub-title>Cease-fire</sub-title>
+    <episode-num system="onscreen">S01E23</episode-num>
+    <desc>General Clayton calls to say that a ceasefire is to be declared. The camp celebrates, Klinger gives away his dresses and locals start to take pieces of the camp. But Trapper does not believe it.</desc>
+  </programme>
+  <programme channel="metv" start="20240914000000 +0000" stop="20240914003000 +0000">
+    <title>The Andy Griffith Show</title>
+    <sub-title>Barney's Physical</sub-title>
+    <episode-num system="onscreen">S05E02</episode-num>
+    <desc>Barney learns that in order to pass the mandatory physical for the deputy's office, he must weigh more and be taller. Andy and Aunt Bee try to stretch him and fatten him up, until Andy comes up with the solution.</desc>
+  </programme>
+  <programme channel="metv" start="20240914003000 +0000" stop="20240914010000 +0000">
+    <title>The Andy Griffith Show</title>
+    <sub-title>Family Visit</sub-title>
+    <episode-num system="onscreen">S05E03</episode-num>
+    <desc>The Taylors quickly realize why they haven't invited Bee's sister and her husband, Ollie, for a visit in more than a decade. When Uncle Ollie borrows Andy's squad car to go fishing, it's the final straw.</desc>
+  </programme>
+  <programme channel="metv" start="20240914010000 +0000" stop="20240914013000 +0000">
+    <title>The Beverly Hillbillies</title>
+    <sub-title>The Reserve Program</sub-title>
+    <episode-num system="onscreen">S06E12</episode-num>
+    <desc>Jethro is getting ready to enter the reserves, and the Clampetts are giving him a party, with gifts, including lady fingers, a squirrel rifle and a Confederate uniform. Jethro heads down to the reserve where they are preparing to shoot a Civil War movie. The men there think Jethro is an actor for the movie. Jethro soon thinks that the Civil War is going to happen again and rushes home to tell Granny and Elly. Granny decides to take up the fight to make sure the South wins, again, since she is convinced they won the first time.</desc>
+  </programme>
+  <programme channel="metv" start="20240914013000 +0000" stop="20240914020000 +0000">
+    <title>Green Acres</title>
+    <sub-title>The Deputy</sub-title>
+    <episode-num system="onscreen">S01E24</episode-num>
+    <desc>Sam Drucker's off for a two-week vacation to visit his sister, leaving Oliver to take over his duties as deputy sheriff. Complications ensue when Oliver demonstrates how to use a pair of handcuffs to Lisa before discovering that he's lost the keys.</desc>
+  </programme>
+  <programme channel="metv" start="20240914020000 +0000" stop="20240914023000 +0000">
+    <title>Hogan's Heroes</title>
+    <sub-title>The Informer</sub-title>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <desc>Lieutenant Carter enters the camp and Hogan discovers a spy among his men.</desc>
+  </programme>
+  <programme channel="metv" start="20240914023000 +0000" stop="20240914030000 +0000">
+    <title>Hogan's Heroes</title>
+    <sub-title>Hold That Tiger</sub-title>
+    <episode-num system="onscreen">S01E02</episode-num>
+    <desc>The POWs smuggle a tiger tank, about which Klink has been boasting, into camp in order to photograph and study it.</desc>
+  </programme>
+  <programme channel="metv" start="20240914030000 +0000" stop="20240914033000 +0000">
+    <title>The Carol Burnett Show</title>
+    <sub-title>Guests Jane Connell And Tim Conway</sub-title>
+    <desc>"Guests Jane Connell and Tim Conway. Originally aired on 03/02/70."</desc>
+  </programme>
+  <programme channel="metv" start="20240914033000 +0000" stop="20240914043500 +0000">
+    <title>Perry Mason</title>
+    <sub-title>The Case Of The Latent Lover</sub-title>
+    <episode-num system="onscreen">S08E11</episode-num>
+    <desc>A man left unhinged by his wife's affair has been acting out in very strange ways, even attempting to rob a bank in his despair. And when his wife ends up murdered, he is the natural suspect.</desc>
+  </programme>
+  <programme channel="metv" start="20240914043500 +0000" stop="20240914050500 +0000">
+    <title>The Twilight Zone</title>
+    <sub-title>The Old Man In The Cave</sub-title>
+    <episode-num system="onscreen">S05E07</episode-num>
+    <desc>A mysterious guardian helps a tiny community survive after nuclear war destroys much of the Earth.</desc>
+  </programme>
+  <programme channel="metv" start="20240914050500 +0000" stop="20240914060500 +0000">
+    <title>The Alfred Hitchcock Hour</title>
+    <sub-title>The Dividing Wall  (s2, ep)</sub-title>
+    <desc>A break-in gang's newest heist may be their last: the booty contains a radioactive capsule.</desc>
+  </programme>
+  <programme channel="metv" start="20240914060500 +0000" stop="20240914070500 +0000">
+    <title>Mannix</title>
+    <sub-title>Walk On The Blind Side</sub-title>
+    <episode-num system="onscreen">S03E06</episode-num>
+    <desc>Syndicate thugs have kidnapped an informer—or so they believe. Their victim is actually Peggy Fair, Mannix's secretary, which puts the detective on their trail.</desc>
+  </programme>
+  <programme channel="metv" start="20240914070500 +0000" stop="20240914080500 +0000">
+    <title>Cannon</title>
+    <sub-title>Kelly's Song</sub-title>
+    <episode-num system="onscreen">S04E01</episode-num>
+    <desc>The man who arranged the death of an embezzler cannot find the loot. But Cannon might, when he investigates on behalf of the man framed for the murder. But Cannon's client might be closer to the case than he lets on.</desc>
+  </programme>
+  <programme channel="metv" start="20240914080500 +0000" stop="20240914090000 +0000">
+    <title>Barnaby Jones</title>
+    <sub-title>Portrait Of Evil</sub-title>
+    <episode-num system="onscreen">S04E14</episode-num>
+    <desc>An art collector's wife plots to steal one of his paintings, but her plan is complicated by her husband's death.</desc>
+  </programme>
+  <programme channel="metv" start="20240914090000 +0000" stop="20240914093000 +0000">
+    <title>Petticoat Junction</title>
+    <sub-title>Hey, Look Me Over</sub-title>
+    <episode-num system="onscreen">S06E22</episode-num>
+    <desc>Billie Jo becomes jealous of her sweetheart, aviator Steve Elliott, and her youngest sister, Betty Jo.</desc>
   </programme>
 </tv>
